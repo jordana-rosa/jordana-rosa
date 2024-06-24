@@ -3,7 +3,7 @@ Sou uma entusiasta dedicada, criativa e responsável, apaixonada por tecnologia 
 
 
 
-![Jordana GitHub stats](https://github-readme-stats.vercel.app/api?username=jordana-rosa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+![Jordana GitHub stats](https://github-readme-stats.vercel.app/api?username=jordana-rosa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura) </br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordana-rosa&layout=compact&langs_count=16&theme=aura)]()
 
 
