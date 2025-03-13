@@ -1,5 +1,5 @@
 ### Sou Jordana, Prazer! 👋</br>
-Sou uma entusiasta dedicada, criativa e responsável, apaixonada por tecnologia e prestes a concluir sua graduação em Sistemas Para Internet.
+Uma entusiasta dedicada e responsável, apaixonada por tecnologia e graduada em Sistemas Para Internet. Possui experiência em desenvolvimento de aplicativos Flutter, automação e design de interfaces para aplicações interativas. Interesse em inovação tecnológica, aprendizado contínuo e aplicação da tecnologia para soluções criativas e funcionais.
 
 
 
